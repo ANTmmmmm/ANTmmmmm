@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANTmmmmm
-- 👀 I’m interested in Python and Minecraft
-- 🌱 I’m currently learning th TK Library of Python
+- 👀 I’m interested in Python and the datapack of Minecraft.
+- 🌱 I’m builing a Minecraft server and trying to build a new webpage about myself.
 - 📫 How to reach me : email me:1504596931@qq.com
 - PS:I'm a Chinese student,so my English is poor……
 <!---
